@@ -1,4 +1,3 @@
-```
 <div align="center">
 
 # 🚀 Task Tracker - MERN Stack
@@ -85,8 +84,7 @@ The application communicates with a REST API built using Express.js and stores d
 
 # 📂 Project Structure
 
-```
-
+```text
 Task_Tracker/
 │
 ├── backend/
@@ -107,8 +105,7 @@ Task_Tracker/
 │   └── package.json
 │
 └── README.md
-
-````
+```
 
 ---
 
@@ -118,7 +115,7 @@ Task_Tracker/
 
 ```bash
 git clone https://github.com/YOUR_USERNAME/YOUR_REPOSITORY.git
-````
+```
 
 ## Backend
 
@@ -158,13 +155,13 @@ VITE_API_URL=http://localhost:5000/api/tasks
 
 # 📡 REST API Endpoints
 
-| Method | Endpoint       | Description    |
-| ------ | -------------- | -------------- |
-| GET    | /api/tasks     | Get All Tasks  |
-| GET    | /api/tasks/:id | Get Task By ID |
-| POST   | /api/tasks     | Create Task    |
-| PUT    | /api/tasks/:id | Update Task    |
-| DELETE | /api/tasks/:id | Delete Task    |
+| Method | Endpoint | Description |
+| ------ | -------- | ----------- |
+| GET | /api/tasks | Get All Tasks |
+| GET | /api/tasks/:id | Get Task By ID |
+| POST | /api/tasks | Create Task |
+| PUT | /api/tasks/:id | Update Task |
+| DELETE | /api/tasks/:id | Delete Task |
 
 ---
 
@@ -184,14 +181,12 @@ VITE_API_URL=http://localhost:5000/api/tasks
 
 Example:
 
-```
+```text
 screenshots/
-
-home.png
-
-add-task.png
-
-edit-task.png
+│
+├── Home.png
+├── Task.png
+└── Edit.png
 ```
 
 Then display them:
@@ -199,30 +194,40 @@ Then display them:
 ```md
 ## Home
 
-![Home](screenshots/Home.png)
+![Home](./screenshots/Home.png)
 
 ## Add Task
 
-![Add Task](screenshots/Task.png)
+![Add Task](./screenshots/Task.png)
 ```
+
+When you have added the images, replace the above example with:
+
+## Home
+
+![Home](./screenshots/Home.png)
+
+## Add Task
+
+![Add Task](./screenshots/Task.png)
 
 ---
 
 # 🎯 Assignment Requirements Completed
 
-* ✔ MERN Stack
-* ✔ React Frontend
-* ✔ Express Backend
-* ✔ MongoDB Integration
-* ✔ CRUD Operations
-* ✔ REST APIs
-* ✔ Form Validation
-* ✔ Responsive UI
-* ✔ Dynamic Updates
-* ✔ Environment Variables
-* ✔ GitHub Repository
-* ✔ Backend Deployment (Render)
-* ✔ Frontend Deployment (Vercel)
+- ✔ MERN Stack
+- ✔ React Frontend
+- ✔ Express Backend
+- ✔ MongoDB Integration
+- ✔ CRUD Operations
+- ✔ REST APIs
+- ✔ Form Validation
+- ✔ Responsive UI
+- ✔ Dynamic Updates
+- ✔ Environment Variables
+- ✔ GitHub Repository
+- ✔ Backend Deployment (Render)
+- ✔ Frontend Deployment (Vercel)
 
 ---
 
@@ -239,6 +244,3 @@ LinkedIn: https://www.linkedin.com/in/shruti-ujeniya-4620b132b/
 ---
 
 ## ⭐ If you like this project, don't forget to give it a Star!
-
-```
-```
