@@ -177,32 +177,6 @@ VITE_API_URL=http://localhost:5000/api/tasks
 
 # 📸 Screenshots
 
-> Add screenshots inside a folder named **screenshots**.
-
-Example:
-
-```text
-screenshots/
-│
-├── Home.png
-├── Task.png
-└── Edit.png
-```
-
-Then display them:
-
-```md
-## Home
-
-![Home](./screenshots/Home.png)
-
-## Add Task
-
-![Add Task](./screenshots/Task.png)
-```
-
-When you have added the images, replace the above example with:
-
 ## Home
 
 ![Home](./screenshots/Home.png)
