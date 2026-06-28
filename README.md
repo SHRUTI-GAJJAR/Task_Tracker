@@ -1,4 +1,4 @@
-```md
+```
 <div align="center">
 
 # 🚀 Task Tracker - MERN Stack
